@@ -43,3 +43,13 @@ I am a PhD Scholar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 - :seedling: Exploring Networked Robotics and 5G.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-srikrishna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/srikrishna-acharya-91a42b5a/)
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+- :construction: Languages:
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srikrishna3118&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikrishna3118)](https://github.com/anuraghazra/github-readme-stats)
