@@ -59,7 +59,7 @@ I am a PhD Scholar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 <!--START_SECTION:waka-->
 <img
   src="https://github.com/srikrishna3118/srikrishna3118/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
+  alt="Srikrishna WakaTime Activity"
 />
 
 <!--END_SECTION:waka-->
