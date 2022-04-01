@@ -47,7 +47,7 @@ I am a PhD Scholar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 ### :hammer_and_wrench: Languages and Tools :
 
-- :construction: Languages:
+- :construction: Languages: Python, C/C++ and Java.  
 ---
 
 ### :fire: My Stats :
