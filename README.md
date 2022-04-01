@@ -56,10 +56,11 @@ I am a PhD Scholar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikrishna3118)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:waka-->
-<img
-  src="https://github.com/srikrishna3118/srikrishna3118/blob/main/images/stat.svg"
-  alt="Srikrishna WakaTime Activity"
-/>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=srikrishna3118&count_private=true&show_icons=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--END_SECTION:waka-->
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=srikrishna3118)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
